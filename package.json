@@ -1,0 +1,22 @@
+{
+  "name": "readx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacksonTian/readx.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacksonTian/readx/issues"
+  },
+  "homepage": "https://github.com/JacksonTian/readx",
+  "devDependencies": {
+    "co": "^4.1.0"
+  }
+}
